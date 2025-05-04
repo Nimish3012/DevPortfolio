@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOMPrhfw",
+      "name": "Food-Ordering-System",
+      "createdAt": "2024-06-29T10:20:14Z",
+      "url": "https://github.com/Nimish3012/Food-Ordering-System",
+      "description": "Food Ordering System : Replicating Swiggy’s Functionality - \"Built a responsive food ordering system with ReactJS, public APIs, user login, cart features, and search functionality  | Used React Hooks, dynamic routing, Tailwind CSS, and tested for performance and functionality | Implemented user login, restaurant exploration, and a cart system",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOK1fr-g",
+      "name": "Password_Generator_QT",
+      "createdAt": "2023-12-04T10:57:32Z",
+      "url": "https://github.com/Nimish3012/Password_Generator_QT",
+      "description": " Engineered a user-friendly C++ application leveraging QT for GUI development, providing a secure and customizable password generation experience. ",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOK0K9NQ",
+      "name": "Cal-C-CLI-Calculator",
+      "createdAt": "2023-11-30T22:16:22Z",
+      "url": "https://github.com/Nimish3012/Cal-C-CLI-Calculator",
+      "description": "Discover a curated showcase of my individual learning journey in software development. From CLI calculators to GUI applications, each project reflects evolving skills and a passion for continuous improvement. Explore my coding experience and problem-solving approach in this collection.",
+      "isFork": false,
+      "languages": []
+    }
+  ]
+}

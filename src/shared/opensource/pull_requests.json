@@ -1,0 +1,29 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOOXqZxM6UKI1F",
+      "title": "Namaste js2",
+      "url": "https://github.com/Nimish3012/LearnJS/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2025-04-28T12:21:53Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 265,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "LearnJS",
+        "url": "https://github.com/Nimish3012/LearnJS",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/124771385?u=a2b51122da62c465fe5fef452715fc53358c7feb&v=4",
+          "login": "Nimish3012",
+          "url": "https://github.com/Nimish3012"
+        }
+      }
+    }
+  ],
+  "merged": 0,
+  "open": 1,
+  "totalCount": 1
+}
