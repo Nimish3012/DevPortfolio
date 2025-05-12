@@ -153,9 +153,9 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Deploy containerized Node.js applications on Azure Kubernetes Service (AKS) using Docker and YAML manifests",
+        "⚡ Manage cloud infrastructure with a DevOps-focused approach to scalability, service exposure, and reliability",
+        "⚡ Utilize foundational DevOps practices for orchestrating deployments and environment configuration",
       ],
       softwareSkills: [
         {
@@ -166,8 +166,8 @@ const skills = {
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "AKS",
+          fontAwesomeClassname: "skill-icons:azure-light",
           style: {
             color: "#FF9900",
           },
@@ -193,13 +193,13 @@ const skills = {
         //     color: "#336791",
         //   },
         // },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
+        // {
+        //   skillName: "MongoDB",
+        //   fontAwesomeClassname: "simple-icons:mongodb",
+        //   style: {
+        //     color: "#47A248",
+        //   },
+        // },
         {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
@@ -681,7 +681,7 @@ const contactPageData = {
     profile_image_path: "nimishlogo.png",
 
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I'm active on most social platforms and always open to meaningful connections. Feel free to reach out — I usually respond within 24 hours. I’d be happy to collaborate or assist you with Web Development, DevOps, Cloud Platforms, and Open Source Projects. ",
   },
   blogSection: {
     // title: "Blogs",
