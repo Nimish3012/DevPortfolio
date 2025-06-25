@@ -26,7 +26,7 @@ const greeting = {
     "A passionate developer focused on building scalable, user-centric solutions, blending technical skills with real-world impact and a drive for continuous growth.",
   resumeLink:
     "https://drive.google.com/file/d/1tP7VomnoWfqxm9C8zk4ziHBaDqxEhidR/view?usp=drive_link",
-  portfolio_repository: "https://nimish3012.github.io/",
+  portfolio_repository: "https://github.com/Nimish3012",
   githubProfile: "https://github.com/nimish3012",
 };
 
